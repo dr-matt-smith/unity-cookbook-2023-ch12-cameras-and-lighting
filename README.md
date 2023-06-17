@@ -8,6 +8,7 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-01-basic-scene-completed
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-02-fixed-camera
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-03-camera-render-to-part-of-screen
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-04-mirror-with-plane-and-rendertexture
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-05-screenshot-and-rendertexture-to-png
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-04-top-down-orthographic-minimap-camera
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-05-mirror-with-plane-and-rendertexture
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-06-screenshot-and-rendertexture-to-png
 - 
