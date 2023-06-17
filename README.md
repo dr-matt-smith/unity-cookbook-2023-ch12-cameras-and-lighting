@@ -11,4 +11,5 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-04-top-down-orthographic-minimap-camera
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-05-mirror-with-plane-and-rendertexture
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-06-screenshot-and-rendertexture-to-png
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-07-cinemachine-clearshot-virtual-cameras
 - 
