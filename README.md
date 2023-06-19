@@ -12,4 +12,8 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-05-mirror-with-plane-and-rendertexture
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-06-screenshot-and-rendertexture-to-png
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-07-cinemachine-clearshot-virtual-cameras
-- 
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-08-cinemachine-always-follow
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-09-virgnete-grain-postprocessing
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-10-hdri-skybox
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-11-spotlight-cookie-texture
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-12-emissive-material
