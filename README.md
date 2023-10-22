@@ -1,7 +1,7 @@
-# unity-cookbook-2023-ch12-cameras-and-lighting
+# unity-cookbook-2023-ch13-cameras-and-lighting
 
 
-## Chapter 12: Cameras and Lighting
+## Chapter 13: Cameras, Lighting and Visual Effects
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-00-basic-scene-modernHouse
